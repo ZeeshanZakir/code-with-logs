@@ -1,0 +1,10 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /admin/
+
+# Host
+Host: https://codewithlogs.com
+
+# Sitemaps
+Sitemap: https://codewithlogs.com/sitemap.xml
